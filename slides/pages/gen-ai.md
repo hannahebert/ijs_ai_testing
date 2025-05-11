@@ -70,6 +70,10 @@ layout: center
   </tbody>
 </table>
 
+<!--
+The advent of Generative Artificial Intelligence (Gen AI) has transformed machines’ ability to comprehend and produce information. When we talk about Gen AI, the first thing that comes to our mind is ChatGPT. ChatGPT is built on a transformer-based architecture, which has features like self-attention (this feature allows the model to focus on different sections of the inputs effectively).
+Transformers allow parallel processing and better context handling. Besides, there are different types of Generative AI models, like Generative Adversarial Networks (GANs) and  Variational Autoencoders (VAEs), that one should know to make efficient architecture-based decisions when it comes to Gen AI application development.
+-->
 
 ---
 layout: image-right
@@ -401,18 +405,3 @@ layout: center
 <li v-click style="margin-bottom: 1rem;">Connect the model directly to prompt from the IDE</li>
 <li v-click>Use the model with an existing user interface for prompting</li>
 </ul>
-
-
----
-layout: center
----
-
-# Prompt Engineering – What is it?
-
-<ul style="padding: 0;">
-<li v-click style="margin-bottom: 1rem;">Designing and optimizing inputs (prompts) for AI models</li>
-<li v-click style="margin-bottom: 1rem;">Techniques for guiding language models effectively</li>
-<li v-click>Goal: Obtain precise and relevant responses</li>
-</ul>
-
-

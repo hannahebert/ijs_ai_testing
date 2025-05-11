@@ -8,15 +8,11 @@ class: text-center
 css: ./styles/colors.css
 drawings:
   persist: false
-# slide transition: https://sli.dev/guide/animations.html#slide-transitions
 transition: slide-left
-# enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 ---
 
 # Testing Strategies with AI
-
-Presentation slides for developers
 
 <div class="abs-br m-6 text-xl">
   <a href="https://github.com/hannahebert/ijs_ai_testing" target="_blank" class="slidev-icon-btn">
@@ -54,6 +50,10 @@ src: ./pages/gen-ai.md
 hide: false
 ---
 
+
+---
+src: ./pages/prompting.md
+hide: false
 ---
 
 
